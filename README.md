@@ -46,7 +46,7 @@ Modelo analítico aplicado al sector retail que integra ventas, compras e invent
 
 ## 📂 Otros Proyectos
 
-###🔹 **Análisis Comercial – Adventure Works**
+🔹 **Análisis Comercial – Adventure Works**
 
 Proyecto de Business Intelligence donde desarrollé un modelo de datos completo, transformación en Power Query y dashboards ejecutivos para analizar:
 
